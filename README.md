@@ -21,4 +21,4 @@ This project consists on recreating the NetCat in a Server-Client Architecture t
 
 ## Author
 
-- [@nzharylk](https://www.github.com/nzharylk)
+- [@nvzik](https://www.github.com/nzharylk)
